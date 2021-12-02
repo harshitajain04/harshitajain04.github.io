@@ -1,42 +1,57 @@
 *{
 	margin: 0;
-	padding: 0;
+	
+    padding: 0;
+
 	
 }
 .navbar{
 
+
 border: none;
+
 background-color: black;
-color: #61122F;
+	
+color:#f084a8; 
+	
 }
+
 body{
-	background-color: #61122F;
+	background-color: #ffffff;
+
 	color: white;
 }
-.glyphicon{
-	font-size: 30px;
-	color: white; 
-}
+
 
 .center{
 	width: 90%;
-	background-color: grey;
+	
+background-color: grey;
 
 }
 .container
 {
-	background-color: grey;
+	
+background-color: grey;
 }
 .text-center{
-	font-size: 30px;
+	font-size: 40px;
+	
+color: black;
 }
 
 h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
+	
+color: #84b2c0;
+	
+text-align: center;
+	
+font-size: 25px;
 }
 .navbar-brand{
+
 font-size: 30px;	
 }
